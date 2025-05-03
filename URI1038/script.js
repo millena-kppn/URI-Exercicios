@@ -18,4 +18,4 @@ let precoDoLanche = 0 // criar ela fora para poder acessar em diferentes escopos
     }
     let total = produto * precoDoLanche
     console.log(`Total: R$ ${total.toFixed(2)}`)
-
+//TERMINAR ATIVIDADE
